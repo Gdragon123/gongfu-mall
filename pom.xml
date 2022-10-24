@@ -23,6 +23,7 @@
         <module>gongfu-ware</module>
         <module>gongfu-member</module>
         <module>gongfu-coupon</module>
+        <module>renren-fast</module>
     </modules>
 
     <properties>
