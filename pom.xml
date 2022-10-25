@@ -24,6 +24,8 @@
         <module>gongfu-member</module>
         <module>gongfu-coupon</module>
         <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>gongfu-common</module>
     </modules>
 
     <properties>
