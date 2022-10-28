@@ -12,7 +12,8 @@
     <artifactId>gongfu-product</artifactId>
     <name>gongfu-product</name>
     <description>商品系统</description>
-    <packaging>pom</packaging>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <dependencies>
 
@@ -20,6 +21,11 @@
             <groupId>com.dragon</groupId>
             <artifactId>gongfu-common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.yaml</groupId>
+            <artifactId>snakeyaml</artifactId>
         </dependency>
 
         <dependency>

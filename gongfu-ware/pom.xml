@@ -12,9 +12,16 @@
     <artifactId>gongfu-ware</artifactId>
     <name>gongfu-ware</name>
     <description>网关系统</description>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
 
     <dependencies>
+
+        <dependency>
+            <groupId>com.dragon</groupId>
+            <artifactId>gongfu-common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
